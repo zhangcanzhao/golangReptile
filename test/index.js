@@ -9,4 +9,35 @@
           className='datePickerInputClass'
           open={false}
         ></DatePicker>
+      </div >
+          <DatePicker
+          picker={picker}
+          format={format}
+          bordered={bordered}
+          placeholder='请选择日期'
+          allowClear={false}
+          value={datePickerValue}
+          className='datePickerInputClass'
+          open={false}
+        ></DatePicker>
+      </div><DatePicker
+          picker={picker}
+          format={format}
+          bordered={bordered}
+          placeholder='请选择日期'
+          allowClear={false}
+          value={datePickerValue}
+          className='datePickerInputClass'
+          open={false}
+        ></DatePicker>
+      </div><DatePicker
+          picker={picker}
+          format={format}
+          bordered={bordered}
+          placeholder='请选择日期'
+          allowClear={false}
+          value={datePickerValue}
+          className='datePickerInputClass'
+          open={false}
+        ></DatePicker>
       </div>
